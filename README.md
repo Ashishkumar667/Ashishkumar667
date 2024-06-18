@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-- 🔭 I’m currently worked on [CALVIN_javascript](https://github.com/Ashishkumar667/CALVIN_javascript)
+- 🔭 I have currently worked on [CALVIN_javascript](https://github.com/Ashishkumar667/CALVIN_javascript)
 
 - 🌱 I’m currently learning **node.js , react.js and mongoDB**
 
