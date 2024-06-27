@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar667&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar667" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumar667" alt="ashishkumar667" /></a> </p>
 
 - 🔭 I’m currently working on [Tic Tac Toe game](https://github.com/Ashishkumar667/Tic-Tac-Toe-Game)
 
@@ -25,4 +22,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumar667&show_icons=true&locale=en" alt="ashishkumar667" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar667&" alt="ashishkumar667" /></p>
+<br> 
+<h1>Github Trophies</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumar667" alt="ashishkumar667" /></a> </p>
+<br>
+<h2>Profile views</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar667&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar667" /> </p>
+
+
 
