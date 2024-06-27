@@ -10,7 +10,7 @@ I have currently worked on My project Calvin and Tic tac toe game.<br>I am willi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar667&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashishkumar667&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashishkumar667&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -19,7 +19,7 @@ I have currently worked on My project Calvin and Tic tac toe game.<br>I am willi
 ![](https://github-contributor-stats.vercel.app/api?username=ashishkumar667&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashishkumar667&label=Profile%20Views%20145&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ashishkumar667&label=Profile%20Views%20145&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
