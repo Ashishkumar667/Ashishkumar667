@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar667&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar667" /> </p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ashishkumar667)](https://github.com/ryo-ma/github-profile-trophy)" alt="ashishkumar667" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="ashishkumar667" /></a> </p>
 
 - 🔭 I’m currently worked on [CALVIN_javascript](https://github.com/Ashishkumar667/CALVIN_javascript)
 
