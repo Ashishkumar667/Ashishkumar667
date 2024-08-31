@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have currently worked on My project Calvin and Tic tac toe game.<br>I am willing to contribute on projects in Nodejs and Expressjs
+I am willing to contribute on projects in Nodejs.
 
 
 # 💻 Tech Stack:
