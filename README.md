@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am willing to contribute on projects in Nodejs.
+I am willing to contribute in projects on Nodejs.
 
 
 # 💻 Tech Stack:
