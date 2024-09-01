@@ -3,7 +3,7 @@ I am willing to contribute in projects on Nodejs.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-mishra-303312305) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-mishra-303312305) <br>
 <a href="https://linktr.ee/ashishmishra6">Linktree</a>
 
 
