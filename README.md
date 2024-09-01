@@ -4,7 +4,7 @@ I am willing to contribute in projects on Nodejs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-mishra-303312305) 
-[![Linktree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPuKrqPz9g0q_wIHXutb4nf0AAIV8ZbuOME2Ps807y7pceYC5AULd7xj_hApY2cBbvEiU&usqp=CAU)](https://linktr.ee/ashishmishra6)
+[![Linktree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPuKrqPz9g0q_wIHXutb4nf0AAIV8ZbuOME2Ps807y7pceYC5AULd7xj_hApY2cBbvEiU&usqp=CAU) hright="20px" width="20px"](https://linktr.ee/ashishmishra6)
 
 
 # 💻 Tech Stack:
