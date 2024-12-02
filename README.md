@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am willing to contribute in projects on Nodejs.
+I am a backend developer. 
+I am willing to contribute in projects on Nodejs. 
 
 
 
