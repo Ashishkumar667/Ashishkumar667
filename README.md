@@ -84,18 +84,17 @@ I'm a backend developer passionate about building scalable APIs, LLM workflow pi
 ---
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Ashishkumar667&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ashishkumar667&theme=highcontrast&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar667&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Ashishkumar667&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ashishkumar667&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashishkumar667&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ashishkumar667&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=Ashishkumar667&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+---
+[![](https://komarev.com/ghpvc/?username=Ashishkumar667&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -118,5 +117,8 @@ I'm a backend developer passionate about building scalable APIs, LLM workflow pi
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ashishkumar667&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashish1103) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
