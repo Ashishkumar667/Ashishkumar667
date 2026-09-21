@@ -16,6 +16,7 @@
 
 I'm a backend developer passionate about building scalable APIs, LLM workflow pipelines, and agentic AI systems.I architect and integrate connectors, skills, and multi-node LLM pipelines.
 
+- ⚙️ Building scalable **Backend** using redis, message broker, kafka etc. 
 - 🤖 Working on **multi-node LLM workflows** and agentic automation pipelines
 - 🌱 Exploring **Go** for backend systems and **AI-native architecture patterns**
 - 💼 5+ client projects shipped in Node.js at Funkash Technology (Feb 2025 – May 2026)
